@@ -14,10 +14,7 @@ and the Flutter guide for
 ## Features
 
 
-https://github.com/HamadaAllipy/hint_form_field/assets/48868414/a2cc151f-4cc5-461f-b70b-923696ec6061
-
-
-
+<img width="300" src="https://github.com/HamadaAllipy/hint_form_field/assets/48868414/1110904e-0592-4c45-8a22-5ebcbe25cba8"/>
 ## Usage
 
 ```dart
